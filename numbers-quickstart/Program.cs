@@ -1,8 +1,8 @@
-﻿int a = 18;
+int a = 18;
 int b = 6;
 int c = 10;
 //Integers();
-//Task2();
+Task2();
 //Task3();
 //Task4();
 //OrderPrecedence();
@@ -13,6 +13,7 @@ decimal_type();
 //Main_task();
 void Integers()
 {
+    int x = 15;
     int c = a + b;
     Console.WriteLine(c);
 // subtraction
@@ -21,6 +22,7 @@ void Integers()
 
     // multiplication
     c = a * b;
+    c = x + c * x;
     Console.WriteLine(c);
 
     // division
