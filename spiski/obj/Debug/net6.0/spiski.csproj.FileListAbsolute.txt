@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Csharp\spiski\bin\Debug\net6.0\spiski.exe
+C:\Users\Home\Desktop\Csharp\spiski\bin\Debug\net6.0\spiski.deps.json
+C:\Users\Home\Desktop\Csharp\spiski\bin\Debug\net6.0\spiski.runtimeconfig.json
+C:\Users\Home\Desktop\Csharp\spiski\bin\Debug\net6.0\spiski.dll
+C:\Users\Home\Desktop\Csharp\spiski\bin\Debug\net6.0\spiski.pdb
+C:\Users\Home\Desktop\Csharp\spiski\obj\Debug\net6.0\spiski.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Csharp\spiski\obj\Debug\net6.0\spiski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Csharp\spiski\obj\Debug\net6.0\spiski.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Csharp\spiski\obj\Debug\net6.0\spiski.AssemblyInfo.cs
+C:\Users\Home\Desktop\Csharp\spiski\obj\Debug\net6.0\spiski.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Csharp\spiski\obj\Debug\net6.0\spiski.dll
+C:\Users\Home\Desktop\Csharp\spiski\obj\Debug\net6.0\refint\spiski.dll
+C:\Users\Home\Desktop\Csharp\spiski\obj\Debug\net6.0\spiski.pdb
+C:\Users\Home\Desktop\Csharp\spiski\obj\Debug\net6.0\spiski.genruntimeconfig.cache
+C:\Users\Home\Desktop\Csharp\spiski\obj\Debug\net6.0\ref\spiski.dll
