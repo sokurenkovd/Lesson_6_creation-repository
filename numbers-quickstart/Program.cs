@@ -30,6 +30,7 @@ void Integers()
 void Task2()
 {
     int d = a + b * c;
+    d= d+1;
     Console.WriteLine(d);
 }
 void Task3()
